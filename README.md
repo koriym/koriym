@@ -1,11 +1,12 @@
 # Akihito Koriyama
 
-Hi there! 👋 I'm **@koriym**, a developer based in Tokyo, Japan.
+Hi there! 👋 I'm **@koriym**, a developer based in Tokyo, Japan.🗼
 
-Check out my projects below! I'm passionate about creating useful tools and applications.
+Check out my projects below. I am passionate about bringing new ideas to life through programming.
+
+Feel free to reach out to me by 📧 e-mail or 𝕏 Twitter.
 
 ## 🌐 API
-
 
 - <img width=80px src="https://www.app-state-diagram.com/images/logo.png">  [**app-state-diagram**](https://www.app-state-diagram.com/) : Visualize Application Semantics and Affordance in REST Architecture 
 
@@ -56,6 +57,6 @@ Check out my projects below! I'm passionate about creating useful tools and appl
 ](https://koriym.github.io/l11ja/installation.html)
 - [manual-skeleton](https://github.com/koriym/user-manual-skeleton): A user manual website skeleton for GH pages
 
-## 🎮 By the way...
+## 🎮 By the way
 
 If you ever played [Yoshi](https://www.nintendo.com/jp/famicom/software/fmc-yeg/index.html)[& Mario](https://www.nintendo.com/en-gb/Games/NES/Mario-Yoshi-752891.html?srsltid=AfmBOopN6OqKyFPnWFWXmd3I4SPdUY4rL2XwBd4QWqHabR0F-KvGzubM) on on NES/GameBoy... congratulations! You've been my user since way back then! 
