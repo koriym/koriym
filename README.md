@@ -1,4 +1,3 @@
-- [BEAR.Resource](https://github.com/bearsunday/BEAR.Resource): A hypermedia framework for object as a service
 # Akihito Koriyama
 
 Hi there! 👋 I'm **@koriym**, a developer based in Tokyo, Japan.
