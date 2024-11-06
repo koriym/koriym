@@ -54,7 +54,7 @@ Feel free to reach out to me by [e-mail](mailto:akihito.koriyama@gmail.com) or [
 - [Psalm 日本語マニュアル
 ](https://koriym.github.io/psalm-ja/)
 - [Laravel11 日本語マニュアル
-](https://l11ja/psalm-ja/)
+](https://koriym.github.io/l11ja/installation.html)
 - [manual-skeleton](https://github.com/koriym/user-manual-skeleton): A user manual website skeleton for GH pages
 
 
