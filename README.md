@@ -38,6 +38,7 @@ Feel free to reach out to me by 📧 e-mail or 𝕏 Twitter.
 - [Koriym.CsvEntities](https://github.com/koriym/Koriym.CsvEntities): PDO - Fetching one to many related tables together
 - [Koriym.NullObject](https://github.com/koriym/Koriym.NullObject): A NullObject generator
 - [Koriym.Loop](https://github.com/koriym/Koriym.Loop): Converts iterable data sets into an entity list generator with loop context
+- [Koriym.FileUpload](https://github.com/koriym/Koriym.FileUpload) Type-safe file upload handling with immutable value objects
 - [dii](https://github.com/koriym/dii): Dependency Injection Container Plugin for Yii 1
 
 ## 🛠️ Tools
