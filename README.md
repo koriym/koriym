@@ -22,6 +22,9 @@ Feel free to reach out to me by 📧 e-mail or 𝕏 Twitter.
 - [Ray.MediaQuery](https://github.com/ray-di/Ray.MediaQuery): A media access mapping framework
 - [MaDci](https://github.com/koriym/MaDci): Data, Context and Interaction (DCI) framework
 
+### Library Package
+ - <img src="https://auraphp.com/img/aura-logo-black.png" width=60px> [Aura for PHP](https://github.com/auraphp) High-quality, well-tested, standards-compliant, decoupled libraries that can be used in any codebase. 
+
 ### Development Utilities
 
 - [PHP Skeleton](https://github.com/koriym/Koriym.PhpSkeleton): CI ready PHP project skeleton
