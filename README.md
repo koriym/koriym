@@ -6,7 +6,7 @@ Check out my projects below. I am passionate about bringing new ideas to life th
 
 Feel free to reach out to me by 📧 e-mail or 𝕏 Twitter.
 
-## 🌐 API
+## 🌐 API / Information Architecture
 
 - <img width=80px src="https://www.app-state-diagram.com/images/logo.png">  [**app-state-diagram**](https://www.app-state-diagram.com/) : Visualize Application Semantics and Affordance in REST Architecture 
 
