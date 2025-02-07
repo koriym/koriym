@@ -1,14 +1,15 @@
 ---
-title: "オープンソース貢献への道"
-description: "オープンソースプロジェクトへの貢献方法を説明するガイド"
+title: オープンソース貢献への道
+description: オープンソースプロジェクトへの貢献方法を説明するガイド
 date: 2025-02-7
-author: "Akihito Koriyama"
-tags:
-   - "オープンソース"
-   - "GitHub"
+author: Akihito Koriyama
 categories:
-   - "開発ガイド"
-draft: false
+- Open Source
+tags:
+- GitHub
+- Testing
+- PHPUnit
+- Contribution Guidelines
 ---
 
 # 👋 オープンソース貢献への道
@@ -250,3 +251,4 @@ git merge upstream/main
 最初は戸惑うかもしれませんが、2回目からはスムーズにできるようになります✨  
 わからないことがあれば、遠慮なくプロジェクトメンテナーに質問してください！
 
+URL: https://koriym.github.io/koriym/CONTRIBUTE.ja
