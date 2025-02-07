@@ -1,3 +1,16 @@
+---
+title: "オープンソース貢献への道"
+description: "オープンソースプロジェクトへの貢献方法を説明するガイド"
+date: 2025-02-7
+author: "Akihito Koriyama"
+tags:
+   - "オープンソース"
+   - "GitHub"
+categories:
+   - "開発ガイド"
+draft: false
+---
+
 # 👋 オープンソース貢献への道
 
 > 💡 **気づいたことがあれば、どんな小さなことでも報告してください:**
