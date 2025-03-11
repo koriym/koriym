@@ -46,7 +46,7 @@ Feel free to reach out to me by 📧 e-mail or 𝕏 Twitter.
 
 ## 🛠️ Tools
 
-- [brewworks](https://github.com/koriym/homebrew-brewworks) The homebrew formula installs project-specific dependencies with custom<img width=150px src="https://github.com/koriym/homebrew-brewworks/assets/529021/d02bc876-8c7d-40d6-b2c1-b845d469f7f7">
+- [Malt](https://koriym.github.io/homebrew-malt/) JSON-driven Homebrew Dev Services <img width=150px src="https://github.com/koriym/homebrew-brewworks/assets/529021/d02bc876-8c7d-40d6-b2c1-b845d469f7f7">
 - [MergeClip](https://github.com/koriym/MergeClip): Merge text files into AI-friendly clipboard content on Mac
 - [JSON-Schema-Connected](https://koriym.github.io/json-schema-connected/): A converter that transforms JSON schemas into array shape format, SQL, or Markdown, resolving $ref references.<img width=150px src="https://koriym.github.io/json-schema-connected/images/json-schema-connected.png">
 - [deepldoc](https://github.com/koriym/deepldoc): A tool that automatically translates your project's documentation into another language.
