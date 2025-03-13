@@ -4,7 +4,7 @@ Hi there! 👋 I'm **@koriym**, a developer based in Tokyo, Japan.🗼
 
 Check out my projects below. I am passionate about bringing new ideas to life through programming.
 
-Feel free to reach out to me by 📧 e-mail or 𝕏 Twitter.
+Feel free to reach out to me by 📧 e-mail or 𝕏.
 
 ## 🌐 API / Information Architecture
 
