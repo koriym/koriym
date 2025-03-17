@@ -53,8 +53,9 @@ Feel free to reach out to me by 📧 e-mail or 𝕏.
 - [html-play](https://github.com/koriym/html-play)
 
 
-## 📚 Documentation
+## 📚 翻訳
 
+- [REST論文(フィールディング論文)](https://koriym.github.io/fielding_dissertation_ja/fielding_dissertation_ja.html) 
 - [Psalm 日本語マニュアル
 ](https://koriym.github.io/psalm-ja/)
 - [Laravel11 日本語マニュアル
