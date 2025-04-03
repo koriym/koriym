@@ -35,6 +35,7 @@ Feel free to reach out to me by 📧 e-mail or 𝕏.
 
 ### Libraries
 
+- [Koriym.EnvJson](https://github.com/koriym/Koriym.EnvJson): Set environment variables in JSON. A schema is the key.
 - [Koriym.Attributes](https://github.com/koriym/Koriym.Attributes): A reader can read both doctrine/annotations and PHP8 attributes with a doctrine annotation interface.
 - [Koriym.DataFile](https://github.com/koriym/Koriym.DataFile): Load XML file with XSD validation
 - [Koriym.PhpServer](https://github.com/koriym/Koriym.PhpServer): Simple PHP built-in server utility for testing
