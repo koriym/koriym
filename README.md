@@ -17,8 +17,8 @@ Feel free to reach out to me by 📧 e-mail or 𝕏.
 
 - <img width=80px src="https://avatars.githubusercontent.com/u/1219103?s=400&u=cfa5f51a09dcadeb17bae674a9d8f9fe70652eb5&v=4">  [**BEAR.Sunday**](https://bearsunday.github.io/) - A resource oriented framework
 - <img width=80px src="https://ray-di.github.io/images/logo.svg">  [**Ray.Di**](https://ray-di.github.io/): A dependency injection framework for PHP
-- [**Ray.Aop**](https://github.com/ray-di/Ray.Aop): An aspect-oriented frameworkHP
-- [BEAR.Resource](https://github.com/bearsunday/BEAR.Resource): A hypermedia framework for object as a service
+- [**Ray.Aop**](https://github.com/ray-di/Ray.Aop): An aspect-oriented framework
+- [Be](https://be-framework.github.io): Being Oriented Programming Framework
 - [Ray.MediaQuery](https://github.com/ray-di/Ray.MediaQuery): A media access mapping framework
 - [MaDci](https://github.com/koriym/MaDci): Data, Context and Interaction (DCI) framework
 
